@@ -1,0 +1,7 @@
+a {
+    color: blue;
+}
+
+a[href="https://facebook.com"] {
+    color: red;
+}
